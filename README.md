@@ -31,7 +31,7 @@ git clone https://github.com/kiplymacho/kumpulantoolstermux
 # MENJALANKANNYA
 
 ```
-cd TOOLSINSTALLERv3
+cd kumpulantoolstermux
 ```
 ```
 chmod +x TUANB4DUT.sh
@@ -40,5 +40,3 @@ chmod +x TUANB4DUT.sh
 sh TUANB4DUT.sh
 ```
 
-TUAN B4DUT
-INDONESIAN TERMUX ASSOCIATION
