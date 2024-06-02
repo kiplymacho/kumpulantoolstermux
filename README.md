@@ -70,4 +70,4 @@ sh TUANB4DUT.sh
 
 # _Follow_
 - Klik Disini 👉[YouTube](https://www.youtube.com/@km7ujuh)
-- Klik Disini👉[instagram](https://github.com/kiplymacho)
+- Klik Disini👉[instagram](https://instagram.com/kiplymacho)
