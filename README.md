@@ -64,9 +64,9 @@ chmod +x TUANB4DUT.sh
 sh TUANB4DUT.sh
 ```
 
-- Bila masih bingung bisa di tanyakan 
+# Bila masih bingung bisa di tanyakan 
 - [Facebook](https://www.facebook.com/httpcustomkiplymacho/)
-- Contacts Person: [WhatsApp](https://wa.me/6285751032225) 
+- Contacts Person:[WhatsApp](https://wa.me/6285751032225) 
 
 # _Follow_
 - Klik Disini 👉[YouTube](https://www.youtube.com/@km7ujuh)
