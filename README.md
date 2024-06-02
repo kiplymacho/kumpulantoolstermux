@@ -64,6 +64,10 @@ chmod +x TUANB4DUT.sh
 sh TUANB4DUT.sh
 ```
 
-Jangan Lupa Follow 
-[YouTube] _(http://youtube.com/@km7ujuh)_
+- Bila masih bingung bisa di tanyakan 
+- [Facebook](https://www.facebook.com/httpcustomkiplymacho/)
+- Contacts Person: [WhatsApp](https://wa.me/6285751032225) 
 
+# _Follow_
+- Klik Disini 👉[YouTube](https://www.youtube.com/@km7ujuh)
+- Klik Disini👉[instagram](https://github.com/kiplymacho)
