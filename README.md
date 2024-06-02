@@ -27,7 +27,7 @@ Powered By kiplymacho
 
 # kumpualan tools termux
 300+ TOOLS IN 1
-Semua Tools Yang Kalian Isntall Ada Di Direktory Tools Ini
+Semua Tools Yang Kalian Install Ada Di Direktory Tools Ini
 
 ```
 apt update && apt upgrade
